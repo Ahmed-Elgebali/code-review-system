@@ -19,7 +19,7 @@ Code Review System is a backend-powered platform that enables developers to subm
 ## 🔧 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/code-review-system.git
+   git clone https://github.com/Ahmed-Elgebali/code-review-system
    cd code-review-system
    ```
 
